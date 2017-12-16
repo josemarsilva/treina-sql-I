@@ -501,6 +501,11 @@
 <INDEXCOLUMN idColumn="11530" LengthParam="0" />
 </INDEXCOLUMNS>
 </INDEX>
+<INDEX ID="11540" IndexName="ak_pessoa_juridica" IndexKind="2" FKRefDef_Obj_id="-1">
+<INDEXCOLUMNS>
+<INDEXCOLUMN idColumn="11536" LengthParam="0" />
+</INDEXCOLUMNS>
+</INDEX>
 </INDICES>
 </TABLE>
 </TABLES>
