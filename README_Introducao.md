@@ -47,6 +47,6 @@ Cada capítulo aborda um tema, iniciando pelos conceitos básicos, passando por 
 
 ***
 
-[anterior](README.md)
+[<<](README.md)
 [home](README.md)
-[próximo](README_Conceitos.md)
+[>>](README_Conceitos.md)
