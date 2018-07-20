@@ -1,6 +1,6 @@
-# 4.1. SQL DISTINCT, WHERE, ORDER BY e NULL VALUES
+## 4.1. SQL DISTINCT, WHERE, ORDER BY e NULL VALUES
 
-## 4.1.1. DISTINCT
+### 4.1.1. DISTINCT
 
 ```sql
 SELECT DISTINCT column1, column2, ... 
@@ -10,7 +10,7 @@ FROM   table_name;
 * [Sintaxe e tutorial sobre **DISTINCT** ](https://www.w3schools.com/sql/sql_distinct.asp)
 
 
-## 4.1.2. WHERE
+### 4.1.2. WHERE
 
 ```sql
 SELECT column1, column2, ...
@@ -21,7 +21,7 @@ WHERE  condition;
 * [Sintaxe e tutorial sobre **WHERE** ](https://www.w3schools.com/sql/sql_where.asp)
 
 
-## 4.1.3. ORDER BY
+### 4.1.3. ORDER BY
 
 ```sql
 SELECT column1, column2, ...
@@ -32,7 +32,7 @@ ORDER BY column1, column2, ... ASC|DESC;
 * [Sintaxe e tutorial sobre **WHERE** ](https://www.w3schools.com/sql/sql_orderby.asp)
 
 
-## 4.1.4. NULL VALUES
+### 4.1.4. NULL VALUES
 
 ```sql
 SELECT column_names
@@ -51,7 +51,7 @@ WHERE column_name IS NOT NULL;
 * [Sintaxe e tutorial sobre **NULL** *values* ](https://www.w3schools.com/sql/sql_null_values.asp)
 
 
-## Referências
+### Referências
 
 * [[https://northwinddatabase.codeplex.com/]]
 * [[http://www.postgresqltutorial.com/postgresql-select/]]
@@ -60,7 +60,7 @@ WHERE column_name IS NOT NULL;
 * [[http://www.sqlservercurry.com/]]
 
 
-## Exercícios
+### Exercícios
 
 1. De quanto e quais paises são os empregados (Employees) da NortWind ?
 2. Quantos e quais são os cargos (title) que existem no quadro de empregados (Employees) da NorthWind?

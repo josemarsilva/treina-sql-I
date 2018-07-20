@@ -1,6 +1,6 @@
 # 4.5. GROUP BY, HAVING, EXISTS, IN subselect
 
-## 4.5.1. GROUP BY
+### 4.5.1. GROUP BY
 
 ```sql
 SELECT column_name(s)
@@ -12,7 +12,7 @@ ORDER BY column_name(s);
 
 * [Sintaxe e tutorial sobre **GROUP BY** ](https://www.w3schools.com/sql/sql_groupby.asp)
 
-## 4.5.2. HAVING
+### 4.5.2. HAVING
 
 ```sql
 SELECT column_name(s)
@@ -25,7 +25,7 @@ ORDER BY column_name(s);
 
 * [Sintaxe e tutorial sobre **HAVING** ](https://www.w3schools.com/sql/sql_having.asp)
 
-## 4.5.3. EXISTS
+### 4.5.3. EXISTS
 
 ```sql
 SELECT column_name(s)
@@ -36,7 +36,7 @@ WHERE EXISTS
 
 * [Sintaxe e tutorial sobre **EXISTS** ](https://www.w3schools.com/sql/sql_exists.asp)
 
-## 4.5.4. IN (sub-select)
+### 4.5.4. IN (sub-select)
 
 ```sql
 SELECT column_name(s)
@@ -47,7 +47,7 @@ WHERE column_name IN (SELECT STATEMENT);
 * [Sintaxe e tutorial sobre **IN (sub-select)** ](https://www.w3schools.com/sql/sql_in.asp)
 
 
-## Exercícios
+### Exercícios
 
 1. Agora, na NorthWind, você ficou conhecido como "o cara" das informações detalhadas. Todos os gestores para quais os vendedores reportam e o vice presidente começou a procurá-lo para pedir informações. E uma coisa curiosa começou a acontecer, eles não queriam mais tantos detalhes nas consultas, apenas agrupamentos e somatórios de grandes números para tomada de decisão. O primeiro pedido veio do próprio vice presidente que queria saber quantos empregados a NorthWind tinha em cada país?
 2. Em seguida ele quis saber quantos empregados em quantas cidades distintas de cada país. Observe que ele não quis saber as cidades.

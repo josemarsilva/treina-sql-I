@@ -1,6 +1,6 @@
-# 4.2. SQL TOP ROWNUM LIMIT MAX MIN COUNT AVG SUM
+## 4.2. SQL TOP ROWNUM LIMIT MAX MIN COUNT AVG SUM
 
-## 4.2.1 TOP, ROWNUM, LIMIT
+### 4.2.1 TOP, ROWNUM, LIMIT
 
 * Oracle
 ```sql-oracle
@@ -27,7 +27,7 @@ LIMIT number;
 * [Sintaxe e tutorial sobre **TOP, ROWNUM, LIMIT** ](https://www.w3schools.com/sql/sql_top.asp)
 
 
-## 4.2.2. MIN() e MAX()
+### 4.2.2. MIN() e MAX()
 
 * MIN(): Mínimo valor - menor valor
 ```sql
@@ -45,7 +45,7 @@ WHERE condition;
 
 * [Sintaxe e tutorial sobre **MIN() e MAX()** ](https://www.w3schools.com/sql/sql_min_max.asp)
 
-## 4.2.3. COUNT(), AVG() e SUM()
+### 4.2.3. COUNT(), AVG() e SUM()
 * COUNT(): Contar número de valores não nulos
 ```sql
 SELECT COUNT(column_name)
@@ -70,7 +70,7 @@ WHERE condition;
 * [Sintaxe e tutorial sobre **COUNT(), AVG() e SUM()** ](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
 
 
-## Exercícios
+### Exercícios
 
 1. Quantos produtos (Products) tem a NorthWind? Quantos deles estão descontinuados ( Discontinued ) ?
 2. Quantos registros tem em cada uma das tabelas do banco de dados NorthWind?

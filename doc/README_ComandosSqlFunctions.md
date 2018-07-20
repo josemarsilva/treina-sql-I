@@ -1,10 +1,10 @@
-# 4.6. SQL Functions (mais utilizadas)
+## 4.6. SQL Functions (mais utilizadas)
 
-## 4.6.1. Sintaxe diferentes
+### 4.6.1. Sintaxe diferentes
 
 Infelizmente, há pequenas diferenças de como invocar funções entre os bancos de dados: Oracle, SQLServer, PostgreSQL e MySQL. A forma escolhida para abordar este assunto neste capítulo, subdividir as funções em grupos e relacionar os links dos manuais de referência de cada banco de dados.
 
-## 4.6.2. String
+### 4.6.2. String
 
 * Oracle: CONCAT( str#1, ..., str#n ) ou \|\|; SQLServer + : Concatena (sinônimo de unir) duas ou mais strings
 * Oracle e MySQL e PostgreSql: LENGTH( str ); SQLServer: LEN( str ): Retorna o tamanho de um string
@@ -15,31 +15,31 @@ Infelizmente, há pequenas diferenças de como invocar funções entre os bancos
 * REPLACE(str, str-to-replace, str-replacement ): Substitui uma cadeia de string por outra cadeia
 * INSTR( str, str): Retorna a posição onde um string está contido dentro de outro
 
-## 4.6.3. Numéricas
+### 4.6.3. Numéricas
 
 * Oracle: LEAST(); SQLServer: FLOOR(): Menor elemento entre um conjunto de números;
 * Oracle: GREATEST(); SQLServer: CEILING(): Menor elemento entre um conjunto de números;
 * TRUNC( ): Truncar um número em uma quantidade de casas decimais
 
-## 4.6.4. Data e Hora
+### 4.6.4. Data e Hora
 
 * Oracle: SYSDATE; SQLServer, PostgreSQL e MySQL: CURRENT_DATE(): Retorna a data/hora de hoje.
 * Oracle: date1 - date2; SQLServer: DATEDIFF( date1, date2) 
 
-## 4.6.5. Conversion
+### 4.6.5. Conversion
 
 * Oracle: DECODE(expression, When#1, Then#1, ..., Others): Decodifica algo em um de->para
 * Oracle: NVL(expression, retorno): Quando expressao for nula retorne isto.
 * Oracle: TO_CHAR(expression, format); SQLServer: DATEPART( )
 
 
-## Referências
+### Referências
 * [Oracle Function references](https://www.w3schools.com/sql/sql_ref_oracle.asp)
 * [SQLServer Function references](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
 * [PostgreSql Function references](https://www.postgresql.org/docs/9.5/static/functions.html)
 * [MySQL Function references](https://www.w3schools.com/sql/sql_ref_mysql.asp)
 
-## Exercícios
+### Exercícios
 1. O vice presidente de vendas disse que não quer mais receber relatórios com primeiro nome e último nome separados. Pediu para que você montasse uma consulta com empregados, com o nome completo (FIrstName  LastName). 
 Faça o mesmo comando em cada uma das bases de dados. Comente algo a respeito.
 2. O depto. administrativo da NorthWind  no Brasil está fazendo um trabalho de redução de custos de telefonia e pediu para você uma consulta dos DDD's das cidades no Brasil dos clientes. Monte esta consulta.

@@ -1,6 +1,6 @@
-# 4.7. SQL DATA TYPES
+## 4.7. SQL DATA TYPES
 
-## 4.7.1. Sintaxe diferentes
+### 4.7.1. Sintaxe diferentes
 
 É importante que você saiba que há pequenas diferenças entre os tipos dos bancos de dados Oracle, SQLServer, PostgreSql e MySQL. Nas refências estão os links dos manuais de cada um deles.
 
@@ -18,7 +18,7 @@ salario              NUMBER(12,2),
 * [Sintaxe e tutorial sobre **DATA TYPES** ](https://www.w3schools.com/sql/sql_datatypes.asp)
 
 
-## Referências
+### Referências
 
 * https://docs.oracle.com/cd/B28359_01/server.111/b28286/sql_elements001.htm#SQLRF0021
 * https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql
