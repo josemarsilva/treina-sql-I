@@ -59,6 +59,6 @@ Um modelo de dados, no contexto de banco de dados relacional,  é uma representa
 
 ***
 
-[<<](README_ComandosSql.md)
+[<<](README_ComandosSqlMaisUtilizados.md)
 [home](../README.md)
 [>>](README_Handson.md)
