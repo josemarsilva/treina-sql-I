@@ -49,4 +49,6 @@ WHERE condition;
 
 ***
 
-[voltar](https://github.com/josemarsilva/treina-sql-I/wiki/3.-Comandos-SQL)
+[<<](README_ComandosSql.md)
+[home](../README.md)
+[>>](README_ComandosSqlMaisUtilizados.md)
