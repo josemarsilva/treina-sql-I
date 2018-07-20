@@ -1,8 +1,6 @@
-*treina-sql-i*: Treinamento de SQL nível I - Fundamentos
+*josemarsilva/treina-sql-i*: Treinamento de SQL nível I - Fundamentos
 
-# Índice
-
-## Introdução
+## 1.Introdução
 * Objetivo
 * Público alvo
 * Infraestrutura necessária
