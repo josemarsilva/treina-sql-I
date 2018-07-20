@@ -34,25 +34,26 @@ Os operadores relacionais são:
 ## 2.3. Álgebra Relacional
 
 ### 2.3.1. Seleção
-https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-selecao.png|alt=selecao]
+![selecao](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-selecao.png)
+
 
 ### 2.3.2. Projeção
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-projecao.png|alt=projecao]] 
+![projecao](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-projecao.png)
 
 ### 2.3.3. União
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-uniao.png|alt=uniao]] 
+![uniao](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-uniao.png)
 
 ### 2.3.4. Interseção
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-intersecao.png|alt=intersecao]] 
+![intersecao](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-intersecao.png)
 
 ### 2.3.5. Diferença
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-diferenca.png|alt=diferenca]] 
+![diferenca](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-diferenca.png)
 
 ### 2.3.6. Produto Cartesiano
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-produtocartesiano.png|alt=produtocartesiano]] 
+![produtocartesiano](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-produtocartesiano.png)
 
 ### 2.3.7. Junção
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-juncao.png|alt=juncao]] 
+![juncao](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-juncao.png)
 
 ## Referências
 
