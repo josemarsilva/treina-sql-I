@@ -29,7 +29,7 @@ Um modelo de dados, no contexto de banco de dados relacional,  é uma representa
 
 
 ## 5.4.4. Redundância no modelo relacional por questões de performance
-![redundancia-performance]https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-RedundanciaPorPerformance.png)
+![redundancia-performance](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-RedundanciaPorPerformance.png)
 
 ## 5.4.5. Modelo Estrela
 ![estrela](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-Estrela.png)
