@@ -47,4 +47,5 @@ Cada capítulo aborda um tema, iniciando pelos conceitos básicos, passando por 
 
 ***
 
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/2.-Conceitos-de-Bancos-de-Dados)
+[próximo](README_Conceitos.md)
+[home](README.md)
