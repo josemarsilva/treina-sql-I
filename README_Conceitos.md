@@ -33,8 +33,7 @@ Os operadores relacionais são:
 
 ## 2.3. Álgebra Relacional
 
-### 2.3.1. Seleção
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-selecao.png|alt=selecao]] 
+### [2.3.1. Seleção](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-selecao.png|alt=selecao)
 
 ### 2.3.2. Projeção
 [[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/algebra-relacional-projecao.png|alt=projecao]] 
@@ -71,4 +70,6 @@ Os operadores relacionais são:
 
 ***
 
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/3.-Comandos-SQL)
+[<<](README_Introducao.md)
+[home](README.md)
+[>>](README_ComandosSql.md)
