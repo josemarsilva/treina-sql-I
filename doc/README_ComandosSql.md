@@ -25,15 +25,15 @@ Execute o instalador das ferramentas baixadas conforme o item "Pré-requisitos de
 ## 3.3. Configurando a ferramenta para executar comandos no SGDB
 O primeiro banco de dados que iremos utilizar será o Oracle através da ferramenta SQLDeveloper.
 * Para cada um dos bancos de dados, solicite ao instrutor os dados da "String de conexão" com o SGDB, isto é endereço do host, nome do banco de dados, login, senha, etc.
-  * [[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/sqldeveloper-icon.jpg|alt=sqldeveloper]]
- [Configurando SQLDeveloper para conectar no SGDB Oracle](https://github.com/josemarsilva/treina-sql-I/wiki/3.3.1.-Configurando-SQLDeveloper-para-conectar-no-SGDB-Oracle)
-  * [[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/sqlservermanagementstudio-icon.jpg|alt=ssms]]
- [Configurando SQLServer Management Studio para conectar no SGDB SQLServer](https://github.com/josemarsilva/treina-sql-I/wiki/3.3.2.-Configurando-SQLServer-Management-Studio-para-conectar-no-SGDB-SQLServer)
-  * [[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/pgadmin-icon.png|alt=pgadmin]] [Configurando pgAdmin para conectar no SGDB PostgreSQL](https://github.com/josemarsilva/treina-sql-I/wiki/3.3.3.-Configurando-pgAdmin-para-conectar-no-SGDB-PostgreSQL)
-  * [[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/mysqlworkbench-icon.jpg|alt=mysqlworkbench]]
- [Configurando MySQLWorkbench para conectar no SGDB MySQL](https://github.com/josemarsilva/treina-sql-I/wiki/3.3.4.-Configurando-MySQLWorkbench-para-conectar-no-SGDB-MySQL)
+  * ![sqldeveloper](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/sqldeveloper-icon.jpg)
+ [Configurando SQLDeveloper para conectar no SGDB Oracle](README_ConfigOracleSqldeveloper.md)
+  * ![ssms](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/sqlservermanagementstudio-icon.jpg)
+ [Configurando SQLServer Management Studio para conectar no SGDB SQLServer](README_ConfigSqlserverSSMS.md)
+  * ![pgadmin](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/pgadmin-icon.png) [Configurando pgAdmin para conectar no SGDB PostgreSQL](README_ConfigPostgresqlPgadmin.md)
+  * ![mysqlworkbench](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/mysqlworkbench-icon.jpg)
+ [Configurando MySQLWorkbench para conectar no SGDB MySQL](README_ConfigMysqlMysqlworkbench.md)
 
-## [3.4. Comandos básicos em SQL](https://github.com/josemarsilva/treina-sql-I/wiki/3.4.-Comandos-basicos-em-SQL)
+## [3.4. Comandos básicos em SQL](README_ComandosSqlBasicos.md)
 
 
 ## Referências
