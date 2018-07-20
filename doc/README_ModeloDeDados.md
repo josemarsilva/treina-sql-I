@@ -7,7 +7,7 @@ Um modelo de dados, no contexto de banco de dados relacional,  é uma representa
 
 ## 5.2. Modelo de dados do NorthWind
 
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/Northwind_A4_size_for_Print.png|alt=BorthWind]]
+![NorthWind](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/Northwind_A4_size_for_Print.png)
 
 ## 5.3. Ferramentas para se construir modelos de dados
 * Microsoft SQLServer Management Studio - função diagramas de bancos de dados
@@ -17,22 +17,22 @@ Um modelo de dados, no contexto de banco de dados relacional,  é uma representa
 ## 5.4. Reconhecimento de padrões de modelos de dados
 
 ## 5.4.1. Um para muitos ou nenhum
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-UmParaMuitosOuNenhum.png|um-para-muitos]]
+![um-para-muitos](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-UmParaMuitosOuNenhum.png)
 
 
 ## 5.4.2. Muitos para muitos
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-MuitosParaMuitos.png|muitos-muitos]]
+![muitos-muitos](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-MuitosParaMuitos.png)
 
 
 ## 5.4.3. Generalização e Especialização
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-GeneralizacaoEspecializacao.png|generalizacao-especializacao]]
+![generalizacao-especializacao](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-GeneralizacaoEspecializacao.png)
 
 
 ## 5.4.4. Redundância no modelo relacional por questões de performance
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-RedundanciaPorPerformance.png|redundancia-performance]]
+![redundancia-performance]https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-RedundanciaPorPerformance.png)
 
 ## 5.4.5. Modelo Estrela
-[[https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-Estrela.png|estrela]]
+![estrela](https://github.com/josemarsilva/treina-sql-I/blob/master/doc/imagens/ModeloDeDados-Estrela.png)
 
 
 
@@ -59,4 +59,6 @@ Um modelo de dados, no contexto de banco de dados relacional,  é uma representa
 
 ***
 
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/6.-Hands-On)
+[<<](README_ComandosSql.md)
+[home](../README.md)
+[>>](README_Handson.md)

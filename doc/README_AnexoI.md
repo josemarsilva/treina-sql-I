@@ -192,4 +192,7 @@ CREATE DATABASE dbtreina;
 
 
 ***
-[voltar](https://github.com/josemarsilva/treina-sql-I/wiki/1.-Introdu%C3%A7%C3%A3o)
+
+<<
+[home](../README.md)
+>>
