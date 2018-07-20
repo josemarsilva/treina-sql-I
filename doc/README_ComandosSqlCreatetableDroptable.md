@@ -31,4 +31,7 @@ DROP TABLE table_name;
 
 
 ***
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/5.-Modelo-de-Dados)
+
+[<<](README_ComandosSqlMaisUtilizados.md)
+[home](../README.md)
+[>>](README_ModeloDeDados.md)

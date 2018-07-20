@@ -75,4 +75,6 @@ PrazoRecebimento    VlrLiquido
 
 ***
 
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/4.7.-SQL-DATA-TYPES)
+[<<](README_ComandosSqlMaisUtilizados.md)
+[home](../README.md)
+[>>](README_ModeloDeDados.md)

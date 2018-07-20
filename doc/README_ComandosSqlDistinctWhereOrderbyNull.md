@@ -90,5 +90,7 @@ i) SELECT 'Hello world!' WHERE NULL NOT IN ( NULL );
 
 
 ***
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/4.2.-SQL-TOP-ROWNUM-LIMIT-MAX-MIN-COUNT-AVG-SUM)
-[voltar](https://github.com/josemarsilva/treina-sql-I/wiki/4.-Comandos-SQL-muito-utilizados)
+
+[<<](README_ComandosSqlMaisUtilizados.md)
+[home](../README.md)
+[>>](README_ModeloDeDados.md)

@@ -82,5 +82,7 @@ WHERE condition;
 
 
 ***
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/4.3.-SQL-LIKE-%25WILDCARDS%25-IN-BETWEEN-ALIAS
-)
+
+[<<](README_ComandosSqlMaisUtilizados.md)
+[home](../README.md)
+[>>](README_ModeloDeDados.md)

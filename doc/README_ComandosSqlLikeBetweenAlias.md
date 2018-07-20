@@ -69,4 +69,7 @@ FROM table_name AS alias_name;
 
 
 ***
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/4.4.-JOIN-INNER-LEFT-RIGHT-FULL-SELF)
+
+[<<](README_ComandosSqlMaisUtilizados.md)
+[home](../README.md)
+[>>](README_ModeloDeDados.md)

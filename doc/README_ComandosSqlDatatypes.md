@@ -29,4 +29,6 @@ salario              NUMBER(12,2),
 
 ***
 
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/4.8.-CREATE-e-DROP-TABLE)
+[<<](README_ComandosSqlMaisUtilizados.md)
+[home](../README.md)
+[>>](README_ModeloDeDados.md)

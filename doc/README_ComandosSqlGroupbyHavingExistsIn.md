@@ -62,4 +62,6 @@ WHERE column_name IN (SELECT STATEMENT);
 
 ***
 
-[próximo](https://github.com/josemarsilva/treina-sql-I/wiki/4.6.-SQL-Functions-(mais-utilizadas))
+[<<](README_ComandosSqlMaisUtilizados.md)
+[home](../README.md)
+[>>](README_ModeloDeDados.md)
